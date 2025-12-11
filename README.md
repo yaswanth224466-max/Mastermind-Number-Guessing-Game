@@ -19,3 +19,4 @@ The game continues until the user successfully guesses the secret number.
 - Easy to modify and understand
 
 
+<img width="808" height="592" alt="image" src="https://github.com/user-attachments/assets/a5b8198b-df42-482a-9277-d60cc4479511" />
